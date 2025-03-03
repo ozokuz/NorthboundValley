@@ -1,0 +1,13 @@
+name = "NoFantasy"
+author = "Ozoku"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ee0d904735548069a4386cef471b3aeccef70da6af701f2782ba6b02f4cdfe97"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.128"

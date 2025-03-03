@@ -1,0 +1,13 @@
+name = "project-1098166"
+filename = "open_sesame-neoforge-1.21-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6dee343618a7505be601598fac72cb42007afb73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5700624
+project-id = 1098166
