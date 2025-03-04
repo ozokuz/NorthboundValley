@@ -1,4 +1,4 @@
-name = "NoFantasy"
+name = "Northbound Valley"
 author = "Ozoku"
 version = "1.0.1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0b5b132402a7e9eb2d8f7e92db05c5dc3db73496fde0a5c88c72d4a186ee9cb1"
+hash = "0bc3c6dcd255d34310b561803cc9a1f02f9cd59b2fcd96203992ba84360f0e27"
 
 [versions]
 minecraft = "1.21.1"
