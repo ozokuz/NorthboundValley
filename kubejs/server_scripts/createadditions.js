@@ -78,7 +78,9 @@ ServerEvents.recipes((event) => {
         type: "create:compacting",
         ingredients: [
             {
-                amount: 2,
+                item: "minecraft:cobblestone"
+            },
+            {
                 item: "minecraft:cobblestone"
             },
             {
