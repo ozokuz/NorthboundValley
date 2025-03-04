@@ -41,6 +41,11 @@ hash = "431f7c97b30f25d7ce399651153c3049c5f0300714e3ab933448bf4dccf2dc9e"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "29f718643b8445d3f7e65faac40073893c1cbfb00d2e0cff620b752e73b58389"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "407e593de87937b8131b322ec034b2f5671f4210d2123451d630560d7918824a"
 metafile = true
