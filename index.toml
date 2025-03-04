@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9611d86fa097db5aff3a6bc0a085ddcaf423fb819494d24cb096566131e49cbf"
+hash = "d087c8e1cff4dc7f763401dd06eb0c1141ed12fa990a9e39ec7f034e967b87d2"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-xmod-compat.pw.toml"
-hash = "744a417599abb68cdd7f37cce83b46e7e62c3653c6def345d99602d60444bb83"
+hash = "a0861e228ee5620c0ed0a2615db8732e1e29b3e4da0575528e892bd3d63fb698"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "4d71f8f1bd102f0c118fcf33a45b2c3b490eb89f8a8e5a873712173c2a6378bd"
+hash = "a145c189647c639ddb5d6ea0efb9042506fe398f0e7c458746ad8b85ed58f649"
 metafile = true
 
 [[files]]
