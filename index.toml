@@ -18,7 +18,7 @@ hash = "621925e559c32fc6a9f87a502272259d81eac5888749943852082b4c24e22556"
 
 [[files]]
 file = "kubejs/server_scripts/createadditions.js"
-hash = "12cb5209a0e6f5cb3924f55678b01cf428221ef31da5aa7c8798f9070f344a48"
+hash = "3ab61a469ebe91adf84507309737e74c75b4677669858b5d904504ba722108a5"
 
 [[files]]
 file = "mods/amendments.pw.toml"

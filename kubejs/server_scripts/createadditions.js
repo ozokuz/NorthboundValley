@@ -30,13 +30,13 @@ ServerEvents.recipes((event) => {
                 item: "minecraft:gravel"
             },
             {
-                item: "minecraft:bonemeal"
+                item: "minecraft:bone_meal"
             },
             {
-                item: "minecraft:bonemeal"
+                item: "minecraft:bone_meal"
             },
             {
-                item: "minecraft:bonemeal"
+                item: "minecraft:bone_meal"
             },
             {
                 type: "fluid_stack",
