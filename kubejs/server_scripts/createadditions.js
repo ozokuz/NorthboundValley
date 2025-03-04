@@ -30,7 +30,12 @@ ServerEvents.recipes((event) => {
                 item: "minecraft:gravel"
             },
             {
-                amount: 3,
+                item: "minecraft:bonemeal"
+            },
+            {
+                item: "minecraft:bonemeal"
+            },
+            {
                 item: "minecraft:bonemeal"
             },
             {
