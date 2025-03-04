@@ -486,11 +486,6 @@ hash = "1cf7e6e2c3d53be5a77f4823459a057d03f36aec7966c27af35204c50028de15"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "967eec9e58a559dd5ca627f063b1ea1425b430e607688fcc349304398f75e3c1"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "9d2afaf79996b50e3ec0f858eea54c77105ba7aba6d7444f8dca9559718bb4d8"
 metafile = true
@@ -513,11 +508,6 @@ metafile = true
 [[files]]
 file = "mods/simply-light.pw.toml"
 hash = "64faee9ca0fb7655cf90fde3e5abc93f38f43faf4fb3c6dd328ca90ce764c247"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "cc029ff569b5c5fc18e2659f8011c7e2c0a4741838fedc44377fdb8d29fd8a62"
 metafile = true
 
 [[files]]
