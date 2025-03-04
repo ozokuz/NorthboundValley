@@ -9,13 +9,41 @@ ServerEvents.recipes((event) => {
                 item: "minecraft:cobblestone"
             },
             {
+                type: "fluid_stack",
                 amount: 25,
                 fluid: "minecraft:lava"
             }
         ],
         results: [
             {
-                item: "minecraft:netherrack"
+                item: {
+                    id: "minecraft:netherrack"
+                }
+            }
+        ]
+    });
+
+    event.custom({
+        type: "create:mixing",
+        ingredients: [
+            {
+                item: "minecraft:gravel"
+            },
+            {
+                amount: 3,
+                item: "minecraft:bonemeal"
+            },
+            {
+                type: "fluid_stack",
+                amount: 25,
+                fluid: "minecraft:lava"
+            }
+        ],
+        results: [
+            {
+                item: {
+                    id: "minecraft:calcite"
+                }
             }
         ]
     });
@@ -27,13 +55,16 @@ ServerEvents.recipes((event) => {
                 item: "minecraft:cobblestone"
             },
             {
+                type: "fluid_stack",
                 amount: 25,
                 fluid: "minecraft:lava"
             }
         ],
         results: [
             {
-                item: "minecraft:cobbled_deepslate"
+                item: {
+                    id: "minecraft:cobbled_deepslate"
+                }
             }
         ]
     });
@@ -46,35 +77,16 @@ ServerEvents.recipes((event) => {
                 item: "minecraft:cobblestone"
             },
             {
+                type: "fluid_stack",
                 amount: 25,
                 fluid: "minecraft:water"
             }
         ],
         results: [
             {
-                item: "minecraft:tuff"
-            }
-        ]
-    });
-
-    event.custom({
-        type: "create:compacting",
-        ingredients: [
-            {
-                item: "minecraft:gravel"
-            },
-            {
-                amount: 3,
-                item: "minecraft:bonemeal"
-            },
-            {
-                amount: 25,
-                fluid: "minecraft:lava"
-            }
-        ],
-        results: [
-            {
-                item: "minecraft:calcite"
+                item: {
+                    id: "minecraft:tuff"
+                }
             }
         ]
     });
