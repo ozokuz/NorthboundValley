@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "3e97bf2c8253409d203c36cc22a0fbb0b954040795332a75e2301177eff7d3aa"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "022ee2789f25ed822d210b242982200d396182c88aa2499337c7fd3007299a03"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "849ea0835025e664c57768e2c729d209856259403af753e699e55a6b34e9bd5e"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "621925e559c32fc6a9f87a502272259d81eac5888749943852082b4c24e22556"
+
+[[files]]
+file = "kubejs/server_scripts/createadditions.js"
+hash = "b1a0ab62818cefcfe5181416592c4b3e22e6ff8b0b5b1cbc6491ec3d70c48e44"
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "4200c102ef646b37b6e171cf40fd40722a7e065ee1ba93ef3a5ad5b707d54d74"
 metafile = true
