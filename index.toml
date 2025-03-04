@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "4200c102ef646b37b6e171cf40fd40722a7e065ee1ba93ef3a5ad5b707d54d74"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5820ee677da3df8d38b89fb2490be39e600b4eb1cf864a344f3cdf59e1879d25"
 metafile = true
@@ -221,6 +226,11 @@ hash = "6c5946729c1d35cabc554febb99b4b10ef38800b47fbfe773834d65ee795ff72"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "ed2c987edef80404213abdba45b78e0af7d5d1e1ce73b160e7216b735199f877"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "562ef3eeb11586df98bfcef645f4fd99beeb25c75543c6f60834203aa81eaadb"
 metafile = true
@@ -253,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "98dfa5894dd77d71ed6b73dccf4fe31b86e3ef52ceb5b78eceea795d1ad9e3b9"
+metafile = true
+
+[[files]]
+file = "mods/heyberryshutup.pw.toml"
+hash = "bb45fd8d63908c2c96b96d6b863a748b0d673b37310af207bb352c007af05dd0"
 metafile = true
 
 [[files]]
@@ -303,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "fe64d3dd484296b6a6b36a7e7c96d6f17ce21bc274cf33abd223a8b0587befb1"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "b2e4e9c22fa6dbdedf14fefc64ae45ab6354ff00246e8c950d720ea9198eb75e"
 metafile = true
 
 [[files]]
@@ -448,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "9d2afaf79996b50e3ec0f858eea54c77105ba7aba6d7444f8dca9559718bb4d8"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "9dfeb4b87e376aacf809236ade964c2e37943aaff4d7a5774442f7cca52b76de"
 metafile = true
 
 [[files]]
