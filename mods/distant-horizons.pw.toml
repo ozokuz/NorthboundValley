@@ -1,6 +1,6 @@
 name = "Distant Horizons: A Level of Detail mod"
 filename = "DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

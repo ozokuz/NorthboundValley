@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "fc64e00a84ed62cc7040da7d69bc924c15c831c6fba323c9229a48204f51cebf"
+hash = "fdb548d3a731444db9b0c7059833fc6f33863d0dac99ce6cddce690fdfcf639d"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "a37c59c54ac3eac2278807c8bc74d8d994dd65aee38c60edb4ad58db88397795"
+hash = "00b6f33f8722bb5df846ffa573ed8060c1a3b4c416824e4dc3531bed2d595a41"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "732230fce4618b7b3f399e48a9fa632731ebbf4226e39cbcdac06586be15dd5f"
+hash = "f3ae4c6cea3288a0c0d1c6f5c1a18992f45c38559908e84c774c9f49ad91b74e"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "e70b82afea1cf5867f6846f35ac8ef67a947c006c49e85e7fb04ad89f43b10ae"
+hash = "d26a53b1e0b584d6499c2f522e18e18bbe7acef056c6069b600be03cbfcd1c2c"
 metafile = true
 
 [[files]]
@@ -397,12 +397,12 @@ metafile = true
 
 [[files]]
 file = "mods/monocle.pw.toml"
-hash = "ee41993d424c78243e52c62c4047c666e5110818f8804405bc03eee37bb0cb58"
+hash = "5ad69bf2e4fade7aba5bec794fc2ab9be6df5b1560a00e82c85c2ee8bdcce845"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/nolijium.pw.toml"
-hash = "d607758ca8b614cf0a5e4d156749ac2693408c97d0c712b24283e0f3fa7e0292"
+hash = "d13983f526c36a3a97f7866a7736e39234b072ad933cceb016b1439450efb7af"
 metafile = true
 
 [[files]]
@@ -662,5 +662,5 @@ metafile = true
 
 [[files]]
 file = "mods/zume.pw.toml"
-hash = "b242b6de5a59d1f480d2af1cdee0c91cdce35f3d364496896de71445d0907dcc"
+hash = "7d24b0c83c5abbbe68ad6aea7e7e48191025492503c73de750f436f3afbffd92"
 metafile = true
