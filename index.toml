@@ -17,6 +17,14 @@ file = "config/sophisticatedbackpacks-server.toml"
 hash = "621925e559c32fc6a9f87a502272259d81eac5888749943852082b4c24e22556"
 
 [[files]]
+file = "kubejs/client_scripts/balancing.js"
+hash = "c9ddf892707a8e09407111965b126ee79920ed2e8413acf33dc35f0740f14351"
+
+[[files]]
+file = "kubejs/server_scripts/balancing.js"
+hash = "f1890d609d5f4cd8d7acf0648e21bd44b6621aa626f11f267101eb2c2b0459d3"
+
+[[files]]
 file = "kubejs/server_scripts/createadditions.js"
 hash = "9da7e34796cf42e72b32d0b5dd44b34a122b3ae10c49815925c15ddb7a8b5634"
 
