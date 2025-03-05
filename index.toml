@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/nolijium.pw.toml"
-hash = "d13983f526c36a3a97f7866a7736e39234b072ad933cceb016b1439450efb7af"
+hash = "36f8189bb57be713280a80f2efdfbf31d57cb46c826778740489774553e93532"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "cc79476a2d348cd37a6f7bc6c344928a9e7967226ae668cff677639d63253c8c"
+hash = "d873185addef9f063fca81e20e3a1eb98376f2056a7e813604fa7d3bd0c54562"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "fef053b6d59d3a9b8f8ecddf63923a6752ea3da9905c2100e21f86682ddd0af7"
+hash = "4921b5e1627cf9660decd945d6c9e1305729c22f8362e0be6eea87faf7224a73"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api-neoforge.pw.toml"
-hash = "1d2251d0958affef0a90edb3acb44250bb5d3bc90539cdf2bbea41ffa28c6ade"
+hash = "add99f30aac4814287b3394715a297f80b425c579f1e83ad31fc3fa71365ae34"
 metafile = true
 
 [[files]]
