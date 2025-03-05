@@ -301,6 +301,11 @@ hash = "13e788c8ef01c68bba4cd50e72931e2ed7a21e1424e4f70389c2550f58fdb068"
 metafile = true
 
 [[files]]
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "24c17a98cf184a95bbbc7b208f70e302a6d2077f8e02e9325e080a3e0f9575c2"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "69a36327ba1adab87891fe28173daf114eee534c810c770d5fbff6b6968209d0"
 metafile = true
