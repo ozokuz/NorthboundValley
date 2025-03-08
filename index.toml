@@ -214,6 +214,11 @@ hash = "34d650c176e3c73243c5b66c6a8a8216eeca9ce9788cf8fce37f20297e65001d"
 metafile = true
 
 [[files]]
+file = "mods/extended-industrialization.pw.toml"
+hash = "b3aa60f109830cfdcdc15d8bb4447cedec7374c4921f6ffc096929574a3657ef"
+metafile = true
+
+[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "00db0532fff3fa1df26f95c04be79e3f00e42017ec09458a9b6b452c473e2a1f"
 metafile = true
@@ -241,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
+metafile = true
+
+[[files]]
+file = "mods/findme.pw.toml"
+hash = "5a27a3a69890806f1fd80ee50731a1ed8bc2a3dcfb8f9bd2098ac5ac132ca950"
 metafile = true
 
 [[files]]
@@ -389,6 +399,11 @@ hash = "85807bdfbb0c76385dec263a19158db3f4277b43f79725e807782d57f731322c"
 metafile = true
 
 [[files]]
+file = "mods/mi-tweaks.pw.toml"
+hash = "40184e76f89f7fcb512c887769e35ce1962498b37d4455b4f9b7e67247c2f814"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "0bc794e02ae75360c22b0afdbfff348ea9fde94863e0068ef536d510603a8370"
 metafile = true
@@ -411,6 +426,11 @@ metafile = true
 [[files]]
 file = "mods/monocle.pw.toml"
 hash = "5ad69bf2e4fade7aba5bec794fc2ab9be6df5b1560a00e82c85c2ee8bdcce845"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "aebb0584b057847e605301fac10e669613bf9c9215ed7cbe6f49e6047487c680"
 metafile = true
 
 [[files]]
@@ -481,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "e113a523a10dfc48b6c8c57628ab163f846637bcd03f58b67ec52eac90a9c18a"
+metafile = true
+
+[[files]]
+file = "mods/powah-rearchitected.pw.toml"
+hash = "d4dbb0b9cc69635bc05df59249f21adb705cb2e4f91b2c37f6061fea392ae65a"
 metafile = true
 
 [[files]]
@@ -574,6 +599,11 @@ hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
 
 [[files]]
+file = "mods/tesseract-api.pw.toml"
+hash = "497704953944c28f7c544e7a04e3e7d98d98dcc66c40e7d43f0fa3fbeb8a1f68"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "05c4f6b63bac8885acff48bc80990fb66927f1547a1037c4b5f26158f3e92f9a"
 metafile = true
@@ -596,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/towntalk.pw.toml"
 hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
+metafile = true
+
+[[files]]
+file = "mods/utilitarian.pw.toml"
+hash = "128cac27cba3c4408de37738c6a83d8d92ae1e5f11ce6d1d85f5069a7addf725"
 metafile = true
 
 [[files]]
