@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobweb.pw.toml"
-hash = "56284fc8b620b45bd935338dd8e0323851aee576d7f80ac052f43752c0f52b87"
+hash = "5f20efe6d4037900a75b33a3a08cbacc4961d93d1ed60642eeb749b92e53297a"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "d087c8e1cff4dc7f763401dd06eb0c1141ed12fa990a9e39ec7f034e967b87d2"
+hash = "771a6a66d637ff4d1e29e8a1abb64983c6733bc1cc339815df9ab9842457c5ab"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "1751576548c9e0a87aa407a1526f45301637de78a5c4753ab1ca4ad6bdbe4207"
+hash = "ea93ddf82cce36354a90a5360e45d205bedad29d4b9c889d1d86848977eaa13e"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "9b55cf494adc4e92e2df688406ea0091d42e61093bb73a4e01e2470f51d3bccf"
+hash = "38bff886d2b10cba12b6199cf988753d00b2a4e61714f25f817f3245b75b186d"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "56007975f8ce6551692e73cdf529d6257e3e7ec0fdebe96a13926368a55ec095"
+hash = "85807bdfbb0c76385dec263a19158db3f4277b43f79725e807782d57f731322c"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "bbbf86073fc55d8b1a23e5ffe1ef0dcd470625263ec09bd302adcdf23f9898cd"
+hash = "b01bdc78b23f735d530c40c3c48d5e5c869a252c69e1bf6d25c7cbdc2a73b9d6"
 metafile = true
 
 [[files]]
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples-neoforge.pw.toml"
-hash = "71be9c07be2bddc714966397c8c24a0dbb56c74c3215222d3084ec12ad7039e6"
+hash = "9d850f339f573961ceffa688f221accedb8c0c36746a5377df872a110f39e3e5"
 metafile = true
 
 [[files]]
@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses-neoforge.pw.toml"
-hash = "f31730c0959a26773d0f05b9603b30bf43d6872bb7e46f45dff81b90d99547e6"
+hash = "296d956a1981fe86e54e58f28dc14a9202400766358959ef0ea77363de6c3678"
 metafile = true
 
 [[files]]
@@ -650,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds-neoforge.pw.toml"
-hash = "7a4c5666b0592f4d4ae3ffdb79f365a64fd53cb0de496ae125fb4b88630d32dc"
+hash = "0a47325379d60e0886ab96a8c247ae8820bcb1a4a8ae53d855a50a99f6cab4ca"
 metafile = true
 
 [[files]]
