@@ -29,6 +29,10 @@ file = "kubejs/server_scripts/createadditions.js"
 hash = "9da7e34796cf42e72b32d0b5dd44b34a122b3ae10c49815925c15ddb7a8b5634"
 
 [[files]]
+file = "kubejs/server_scripts/fixes.js"
+hash = "e67fb84156ad02f5ff73bf89bcc5364c4a1e5ba70bf7ffb988f3783b1a29f7d6"
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "4200c102ef646b37b6e171cf40fd40722a7e065ee1ba93ef3a5ad5b707d54d74"
 metafile = true
