@@ -1,12 +1,12 @@
 name = "Northbound Valley"
 author = "Ozoku"
-version = "1.0.1"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "835dacc91b36e5c59cff9cd5bbb4087e5e5b79e4848b01d4d8cf4c9260f6891f"
+hash = "9351f0b012f2826b09ccffb5a49b1596491d47c6cc604d2996abacccee15bf65"
 
 [versions]
 minecraft = "1.21.1"
