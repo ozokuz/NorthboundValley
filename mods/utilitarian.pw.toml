@@ -1,13 +1,13 @@
 name = "Utilitarian"
-filename = "utilitarian-1.21.1-0.13.9.jar"
+filename = "utilitarian-1.21.1-0.13.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3019c277244ebff99f615c44d490ba6902e1e919"
+hash = "3143a4f9ed73c709ca975fbe65b2ff90fec11455"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6276877
+file-id = 6312522
 project-id = 929559
