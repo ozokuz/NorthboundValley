@@ -644,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "4fa1fc9965a7ccc088d2b8d8ffdca577c7ae7a1f163636dbef9c07614ef5e192"
+hash = "378e95a75af897c1094c8ee6ccb17fa87fd9133cd5c03ecb1e45ac9131bcc839"
 metafile = true
 
 [[files]]
