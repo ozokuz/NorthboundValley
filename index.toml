@@ -34,7 +34,7 @@ hash = "e67fb84156ad02f5ff73bf89bcc5364c4a1e5ba70bf7ffb988f3783b1a29f7d6"
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "4200c102ef646b37b6e171cf40fd40722a7e065ee1ba93ef3a5ad5b707d54d74"
+hash = "f6b0270e42cdd96ee23cdd3e79280f2d1a91a1b13184b77912c1550600a20c3a"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "7ab718a0c47f38236651118ad4ebf4f470c7a58bed5e963153ee0c1168a33852"
+hash = "14c9b7f6ad68ef01d24e26cf34112f490e2696909ae13c3277e62ceaa84b0f61"
 metafile = true
 
 [[files]]
