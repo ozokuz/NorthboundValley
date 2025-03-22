@@ -528,11 +528,6 @@ hash = "d4dbb0b9cc69635bc05df59249f21adb705cb2e4f91b2c37f6061fea392ae65a"
 metafile = true
 
 [[files]]
-file = "mods/project-1098166.pw.toml"
-hash = "da377a8d07d0b8902c10a44c19bacc4ec2267f62ad23edc0ae5e962fe5893d4b"
-metafile = true
-
-[[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "c4491973c681ea0325937fef225afd7039a43184b6ccf6432351590287fed125"
 metafile = true
