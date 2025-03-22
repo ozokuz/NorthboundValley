@@ -183,6 +183,11 @@ hash = "141bec32c90144fdf64617a3a7c997cabb062b6f6690f21dd70b6a83034d11fd"
 metafile = true
 
 [[files]]
+file = "mods/crash-utilities.pw.toml"
+hash = "6457e8702c7c3d603e1e35252bf2388db4ec44c875209af3c4364a79f4c1709c"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "b3e1e88fae7462809ceaef7394e36c01bf422bbd939aa7393fa4f3a9cd5b0fe6"
 metafile = true
@@ -470,6 +475,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "e833a2a48be1c52c7f59f4f9c5313689445cf328ddfae4eaa4eb815a5e722f9d"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "5d36cd9acf63014e3b2cfcb5eb1473e3fa04c8b4dcb5c9477806b650f5781f4e"
 metafile = true
 
 [[files]]
