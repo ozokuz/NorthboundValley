@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/world.toml"
+hash = "400a72237914d630974bba44b3ebe52b3458147a0f903f5f4b811e72a08423bc"
+
+[[files]]
 file = "config/bcc-common.toml"
 hash = "38f9a725ea832d9eec5d91986375f9483e7c651990712796a98f829eca9ea730"
+
+[[files]]
+file = "config/emi.css"
+hash = "a3a620127848f851889a5334b9ed8383218bc97f6d14a465f71c9b5f419de9d5"
+
+[[files]]
+file = "config/fml.toml"
+hash = "07c546de707ca14a8e3e0f3ae2de289ba0e52f486af6f627d098ceb044b72173"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -15,6 +27,10 @@ hash = "849ea0835025e664c57768e2c729d209856259403af753e699e55a6b34e9bd5e"
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
 hash = "621925e559c32fc6a9f87a502272259d81eac5888749943852082b4c24e22556"
+
+[[files]]
+file = "config/utilitarian-common.toml"
+hash = "c34ea86c0287d4de2c409ce4fa20e3cc8886f3922348f53aff39c1f1142fd74a"
 
 [[files]]
 file = "kubejs/client_scripts/balancing.js"
