@@ -6,7 +6,7 @@ hash = "400a72237914d630974bba44b3ebe52b3458147a0f903f5f4b811e72a08423bc"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "38f9a725ea832d9eec5d91986375f9483e7c651990712796a98f829eca9ea730"
+hash = "b7769cc382b39ed6c134886e96d998f3e47a91b5b76918ea939e62fc83176a57"
 
 [[files]]
 file = "config/emi.css"
