@@ -33,6 +33,31 @@ file = "kubejs/server_scripts/fixes.js"
 hash = "e67fb84156ad02f5ff73bf89bcc5364c4a1e5ba70bf7ffb988f3783b1a29f7d6"
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "da0bc30581b206aee85540014b8c498e88cdd4a63ae24eee7c968ef1fc5adb5a"
+metafile = true
+
+[[files]]
+file = "mods/ae2-crafting-tree.pw.toml"
+hash = "9954b78cdcee56bef5d407f8051a4924c7c178c29fee92a7482c5c5ac695794b"
+metafile = true
+
+[[files]]
+file = "mods/ae2-import-export-card.pw.toml"
+hash = "c5fbbcc078a3b128bb3d33718e81e15afd8d14eb4b90bfe28e48307c125820fe"
+metafile = true
+
+[[files]]
+file = "mods/ae2-network-analyser.pw.toml"
+hash = "f256efb5bb8e2b11951c19b85f33da92cdfc057c99bd4ca4cd3ee596f127831f"
+metafile = true
+
+[[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "baa4ef19f126561bbb32b095ed4c2d21ad5783194c143a6e317cb69a58716a88"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "f6b0270e42cdd96ee23cdd3e79280f2d1a91a1b13184b77912c1550600a20c3a"
 metafile = true
@@ -43,8 +68,23 @@ hash = "5820ee677da3df8d38b89fb2490be39e600b4eb1cf864a344f3cdf59e1879d25"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "34ad0aa17a9e366a27dd2f474e5585ea4a31d3de69931caa1de041854fbc82c3"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "f76fa7ef7877fc0f8e92320c48ec787a949519cf447d3cb9d5055b4d36c559c3"
+metafile = true
+
+[[files]]
+file = "mods/applied-flux.pw.toml"
+hash = "1d6ac0e726d611e127474df14f9447b68ed6eb752efa6287dbe4d19dc9a7158c"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "6809916304466ff7ae4b2efdbdea3c984c06a8d42d24047a4dde9daa87dff82a"
 metafile = true
 
 [[files]]
@@ -218,8 +258,18 @@ hash = "f3ae4c6cea3288a0c0d1c6f5c1a18992f45c38559908e84c774c9f49ad91b74e"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "2f000026770f1e73616d1f205e9c12f6dccf3a1c6a75e7b9417cd5da96dadcf9"
+metafile = true
+
+[[files]]
 file = "mods/ender-io.pw.toml"
 hash = "1a4a0a6250979da11b962289a6a56e57146f641e90055156c50d6f2b86be6be0"
+metafile = true
+
+[[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "f413335392b089b01cd02c89ef9c121bbf8447dc9a8742e40f9891e9a298492b"
 metafile = true
 
 [[files]]
@@ -293,11 +343,6 @@ hash = "38d1ce888e383fb1bd1d3648d0ee26b643a697d3ac91e7fdb144cad3f9f55748"
 metafile = true
 
 [[files]]
-file = "mods/ftb-xmod-compat.pw.toml"
-hash = "a0861e228ee5620c0ed0a2615db8732e1e29b3e4da0575528e892bd3d63fb698"
-metafile = true
-
-[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "831958bea4996bc169a5fcbe1f1e656199e60287d94a3505c5a9a35945fc37a5"
 metafile = true
@@ -310,6 +355,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "629b53312afe295222bc721338a3189844157971767e377316492068c453abf4"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
 metafile = true
 
 [[files]]
@@ -358,11 +408,6 @@ hash = "e64ecb726e09cec46a58f44d73fcf9a9c6634ac2c08e0224d3c24ed95c053b29"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "c344b0630eedfa7f8ed24e7cb916e49c231df456c40d20fc2b5fc0b675fb6517"
-metafile = true
-
-[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "3f89038e5fb9e296b11ea5c4b281c3b26385352dcf55fda6b86a826e3104d480"
 metafile = true
@@ -375,6 +420,11 @@ metafile = true
 [[files]]
 file = "mods/just-dire-things.pw.toml"
 hash = "da75d7883b33127af1759cb5a76dc3573369379e9e891bdc2107a0825d4669ec"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
+hash = "9bf9fe8a6aad612ecb849ce6fea8a7631afe8565b7d495fe5a034a31d7aaa34b"
 metafile = true
 
 [[files]]
@@ -410,6 +460,31 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "f046474faa9a8116838f9eb40fa82bfa28c1248dd5296afaeca6f8e3b712e92b"
+metafile = true
+
+[[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "707476004933e5c0f3830cab79dba92f27e3cad880b8694ed53eca1b89077c86"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-covers.pw.toml"
+hash = "1cb48d65c752fa47bf5c4773c93b53b5bdda79ada16740cd73b453ba2c185b36"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "2291b38a387ebd052f35ef6ddb0d290f7c2fcd637689c195b62dda163e818a14"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "de1f95f86c28bd4df4a16af98201d55e29cb1ff5e1865d5297e12df0bc7a8b56"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "ea2894bd534a11f72738661def54e3296355e399e147bd68ad97c2f167f79e6f"
 metafile = true
 
 [[files]]
@@ -523,6 +598,11 @@ hash = "e113a523a10dfc48b6c8c57628ab163f846637bcd03f58b67ec52eac90a9c18a"
 metafile = true
 
 [[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
+metafile = true
+
+[[files]]
 file = "mods/powah-rearchitected.pw.toml"
 hash = "d4dbb0b9cc69635bc05df59249f21adb705cb2e4f91b2c37f6061fea392ae65a"
 metafile = true
@@ -620,6 +700,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "b342413bd6c097fecb6cbeb562bf623eff597a650e3f5e69d9736f2369e61ee7"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "074263ea9ddf283bd95aea17813903971b6d52129ec2d07c8e70036dbb360c00"
 metafile = true
 
 [[files]]
